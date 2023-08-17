@@ -1,10 +1,9 @@
-[![MasterHead](https://user-images.githubusercontent.com/43012445/105452071-411e4880-5c43-11eb-8ae2-4de61f310bf9.gif)](https://www.linkedin.com/in/charles-albert-kotto-7654a01a2/)
+[![MasterHead](https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47ihbzjfp9qsngr3bhkifhb42lqlwz1i6n1xvfczxa&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://www.linkedin.com/in/charles-albert-kotto-7654a01a2/)
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">A passionate python developer from France 🇫🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caprogs&label=Profile%20views&color=0e75b6&style=flat" alt="caprogs" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif">
-
 - 🔭 I’m currently working on [PandaScan 🐼](https://github.com/CAprogs/PandaScan)
 
 - 🌱 I’m currently learning **Python 🐍**
