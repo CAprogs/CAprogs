@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47ihbzjfp9qsngr3bhkifhb42lqlwz1i6n1xvfczxa&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://www.linkedin.com/in/charles-albert-kotto-7654a01a2/)
+[![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)](https://www.linkedin.com/in/charles-albert-kotto-7654a01a2/)
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">A passionate python developer from France 🇫🇷</h3>
 
