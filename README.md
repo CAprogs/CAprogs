@@ -22,5 +22,5 @@
 <p><a href="https://www.buymeacoffee.com/CAprogs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CAprogs" /></a></p><br><br>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=caprogs&show_icons=true&locale=en" alt="caprogs" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=caprogs&" alt="caprogs" /></p>
+<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=caprogs&show_icons=true&locale=en" alt="caprogs" />
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=caprogs&" alt="caprogs" /></p>
