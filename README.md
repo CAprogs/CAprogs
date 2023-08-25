@@ -5,9 +5,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=caprogs&label=Profile%20views&color=0e75b6&style=flat" alt="caprogs" /> </p>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif">
 
-- 👨🏾‍💻 I’m currently working on [```PandaScan 🐼```](https://github.com/CAprogs/PandaScan)
+- 👨🏾‍💻 I’m currently working on [**```PandaScan 🐼```**](https://github.com/CAprogs/PandaScan)
 
-- 🌱 I’m currently learning **Python 🐍 and Docker 🐳**
+- 🌱 I’m currently learning **Python 🐍** and **Docker 🐳**
 
 - 💬 Ask me about **Machine Learning 🤖, Video Games 🎮, Comics 🦸‍♂️ and Football ⚽️**
 
