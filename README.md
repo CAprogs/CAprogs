@@ -7,7 +7,7 @@
 
 - 👨🏾‍💻 I’m currently working on [**```PandaScan 🐼```**](https://github.com/CAprogs/PandaScan)
 
-- 🌱 I’m currently learning **Python 🐍** and **Docker 🐳**
+- 🌱 I’m constantly learning **Python 🐍** and **Cloud Computing ☁️**, Next steps are **Docker 🐳**, **Spark 📊** and **Power BI 📊**
 
 - 💬 Ask me about **Machine Learning 🤖, Video Games 🎮, Comics 🦸‍♂️ and Football ⚽️**
 
