@@ -8,7 +8,7 @@
 - 👨🏾‍💻 I’m currently working on [**```PandaScan 🐼```**](https://github.com/CAprogs/PandaScan)
 
 - 🌱 I’m constantly learning **Python 🐍** and **Cloud Computing ☁️**, Next step is **PySpark 📊**
-- 💬 Ask me about **Machine Learning 🤖, Video Games 🎮, Comics 🦸‍♂️, Mangas 🥢 and Football ⚽️**
+- 💬 Ask me about **Mangas 🥢, Video Games 🎮, Comics 🦸‍♂️ and Football ⚽️**
 
 - 📩 : **charleskotto.pro@gmail.com**
 
